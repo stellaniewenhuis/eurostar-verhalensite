@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 382.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #814242;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        font-size: 68.74px;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #0a1c41;
+        font-family: MyanmarMN, Myanmar MN;
+      }
+
+      .cls-4 {
+        font-size: 62.58px;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-5 {
+        font-size: 30.78px;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <title>Middel 1</title>
+  <g id="Laag_2" data-name="Laag 2">
+    <g id="Laag_1-2" data-name="Laag 1">
+      <g id="Group_113" data-name="Group 113">
+        <rect id="Rectangle_283" data-name="Rectangle 283" class="cls-1" y="0.45" width="790" height="381.63"/>
+        <g id="De_cock_" data-name="De cock " class="cls-2">
+          <text class="cls-3" transform="translate(237.29 55.16) rotate(13)">De cock</text>
+        </g>
+        <g id="De_cock_2" data-name="De cock 2" class="cls-2">
+          <text class="cls-4" transform="translate(267.5 135.65) rotate(-12.01)">De cock</text>
+        </g>
+        <g id="De_cock_3" data-name="De cock 3" class="cls-2">
+          <text class="cls-5" transform="translate(452.25 50.36) rotate(41)">De cock</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
